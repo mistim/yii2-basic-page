@@ -1,11 +1,11 @@
 {
-    "name": "mistim/yii2-base-page",
+    "name": "mistim/yii2-basic-page",
     "description": "Page Module for Yii2 Framework",
     "keywords": [
         "yii2",
         "page"
     ],
-    "homepage": "https://github.com/mistim/yii2-base-page",
+    "homepage": "https://github.com/mistim/yii2-basic-page",
     "type": "yii2-extension",
     "license": "BSD-4-Clause",
     "authors": [
