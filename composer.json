@@ -17,7 +17,7 @@
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "*",
-        "mistim/yii2-base-kernel": "*"
+        "mistim/yii2-basic-kernel": "*"
     },
     "autoload": {
         "psr-4": {
